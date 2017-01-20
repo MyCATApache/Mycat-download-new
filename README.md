@@ -1,2 +1,2 @@
 # New Download URL:
-dl.mycat.io
+http://dl.mycat.io
